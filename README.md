@@ -1,5 +1,5 @@
 <h1 align="center">Projeto: NLW Spacetime</h1><br>
-<p> Este projeto é um site de cápsula do tempo chamado "NLW Spacetime". Nele, a desenvolvedora Renata Ribeiro compartilha momentos significativos de sua vida, como sua jornada na maternidade solo, transição de carreira e formação acadêmica.</p>
+<p> Este projeto é um site de cápsula do tempo chamado "NLW Spacetime". Nele compartilho momentos significativos da minha vida, como minha jornada na maternidade solo, transição de carreira e formação acadêmica.</p>
 Tecnologias Utilizadas: HTML e CSS<br><br>
 
 <p align="center">
